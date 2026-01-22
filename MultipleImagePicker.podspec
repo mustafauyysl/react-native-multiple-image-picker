@@ -26,10 +26,9 @@ Pod::Spec.new do |s|
     "MultipleImagePicker" => ["ios/Assets.xcassets"]
   }
 
-
-  s.dependency "HXPhotoPicker/Picker", "4.2.4"
-  s.dependency "HXPhotoPicker/Camera/Lite", "4.2.4"
-  s.dependency "HXPhotoPicker/Editor", "4.2.4"
+  s.dependency "HXPhotoPicker/Picker", "5.0.5"
+  s.dependency "HXPhotoPicker/Camera/Lite", "5.0.5"
+  s.dependency "HXPhotoPicker/Editor", "5.0.5"
 
   s.pod_target_xcconfig = {
     # C++ compiler flags, mainly for folly.

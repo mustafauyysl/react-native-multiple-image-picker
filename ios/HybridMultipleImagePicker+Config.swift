@@ -48,7 +48,6 @@ extension HybridMultipleImagePicker {
         }
 
         config.indicatorType = .system
-        config.photoList.cell.kf_indicatorColor = .black
 
         if let boxStyle = SelectBoxView.Style(rawValue: Int(options.selectBoxStyle.rawValue)) {
             previewView.selectBox.style = boxStyle
