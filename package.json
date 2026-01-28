@@ -1,5 +1,5 @@
 {
-  "name": "@baronha/react-native-multiple-image-picker",
+  "name": "@mustafauyysl/react-native-multiple-image-picker",
   "version": "2.3.0",
   "description": "� react-native-multiple-image-picker enables applications to pick images and videos from multiple smart albums in iOS/Android �",
   "main": "./lib/commonjs/index.js",
@@ -124,5 +124,5 @@
       ]
     ]
   },
-  "packageManager": "yarn@1.22.22"
+"packageManager": "pnpm@9.15.0"
 }
